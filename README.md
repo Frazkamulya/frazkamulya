@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hi There,  Im Frazka M.W:
 Informatics Engineering student focused on Data Analysis and Data Science.<br>
 🎯 Data Specialist dedicated to Data Integrity,<br>
 Screening, and Audit.
