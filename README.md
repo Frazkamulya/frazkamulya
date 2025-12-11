@@ -1,6 +1,11 @@
 # Hi There, Im Frazka M.W:
-Informatics Engineering student focused on Data Analysis and Data Science.<br>🎯 Data Specialist dedicated to Data Integrity,<br>Screening, and Audit.
-Data science | Data Analyst | BI Analyst | Data Spesialist
+Informatics Engineering Student | Data Science Focus.
+
+🎯 Data Specialist committed to **Data Integrity, Screening, and Audit**.
+
+Skills: Cleansing (Excel/SQL), Validation, Data Management.
+
+Data Science | Data Analyst | BI Analyst | Data Specialist
 
 
 ## 🌐 Connect With Me In Social:
