@@ -8,7 +8,7 @@ Skills: Cleansing (Excel/SQL), Validation, Data Management.
 Data Science | Data Analyst | BI Analyst | Data Specialist
 
 
-## 🌐 Connect With Me In Social:
+## 🌐 Connect With Me On Social:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/dzqgC2mqj) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Franzkafka_Mw) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Frazka__mulya) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Frazka_Mulya_Wijaya) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:frazka177@gmail.com) 
 
 # 💻 Tech Stack:
