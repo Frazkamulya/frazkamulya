@@ -1,3 +1,6 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=003545&height=250&section=header&text=Frazka%20M.W&fontSize=70&fontAlignY=40&desc=Data%20Science%20Focus&descAlignY=65)
+<br/>
+
 # Hi There, Im Frazka M.W:
 Informatics Engineering Student | Data Science Focus.
 
@@ -22,6 +25,11 @@ Data Science | Data Analyst | BI Analyst | Data Specialist
 ![](https://github-contributor-stats.vercel.app/api?username=Frazkamulya&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+<div align="center">
+  <img src="https://github.com/Frazkamulya/Frazkamulya/blob/output/github-contribution-grid-snake.svg" alt="snake animation" width="100%"/>
+</div>
+---
+
 [![](https://visitcount.itsvg.in/api?id=Frazkamulya&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ## 💰 You can help me by Donating
