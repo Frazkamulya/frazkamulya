@@ -1,8 +1,6 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=002147&height=230&section=header&fontSize=150&fontAlignY=50&text=https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Crystal%20Ball.png" alt="header wavy background with data animation" width="100%" />
-
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.vercel.app/?font=Fira+Code&size=28&duration=3000&pause=1000&color=0066FF&center=true&vCenter=true&width=850&height=60&lines=Halo!+Selamat+datang+di+GitHub+saya+👋;Perkenalkan,+aku+Frazka+Mulya+Wijaya.;Tertarik+di+bidang+Data+Science+📊;Spesialis+Data+Integrity,+Screening,+%26+Audit.">
+    <img src="https://readme-typing-svg.vercel.app/?font=Fira+Code&size=35&duration=3500&pause=1000&color=0066FF&center=true&vCenter=true&width=1000&height=100&lines=Halo!+Selamat+datang+di+GitHub+saya+👋;Perkenalkan,+aku+Frazka+Mulya+Wijaya.;Informatics+Student+|+Data+Science+Focus+📊;Spesialis+Data+Integrity,+Screening,+%26+Audit.">
   </a>
 </div>
 <br/>
