@@ -1,4 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=003545&height=250&section=header&text=Frazka%20M.W&fontSize=70&fontAlignY=40&desc=Data%20Science%20Focus&descAlignY=65)
+<div align="center">
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.vercel.app/?font=Fira+Code&size=30&duration=3000&pause=1000&color=FFFFFF&background=0066FF&center=true&vCenter=true&width=800&height=180&lines=Halo!+Selamat+datang+di+GitHub+saya+👋;Perkenalkan,+aku+Frazka+Mulya+Wijaya.;Informatics+Student+%7C+Data+Science+Focus+📊;Spesialis+Data+Integrity,+Screening,+%26+Audit.">
+</a>
+</div>
 <br/>
 
 # Hi There, Im Frazka M.W:
