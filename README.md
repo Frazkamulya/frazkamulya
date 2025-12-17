@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=002147&height=220&section=header&text=Frazka%20M.W&fontSize=70&fontAlignY=40&animation=twinkling" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=002147&height=240&section=header&fontSize=0&text=https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHY1ejRsOXNjZ3ViNHRtODBwdWNvZ2VtYmJqcHNnMHBqNGJmMDZiaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uPPsXMSMq3mQibeKqd/giphy.gif" width="100%" />
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.vercel.app/?font=Fira+Code&size=25&duration=3000&pause=1000&color=0066FF&center=true&vCenter=true&width=600&height=50&lines=Halo!+Selamat+datang+di+GitHub+saya+👋;Perkenalkan,+aku+Frazka+Mulya+Wijaya.;Tertarik+di+bidang+Data+Science+📊;Spesialis+Data+Integrity,+Screening,+%26+Audit.">
+    <img src="https://readme-typing-svg.vercel.app/?font=Fira+Code&size=28&duration=3000&pause=1000&color=0066FF&center=true&vCenter=true&width=900&height=60&lines=Halo!+Selamat+datang+di+GitHub+saya+👋;Perkenalkan,+aku+Frazka+Mulya+Wijaya.;Tertarik+di+bidang+Data+Science+📊;Spesialis+Data+Integrity,+Screening,+%26+Audit.">
   </a>
 </div>
 <br/>
