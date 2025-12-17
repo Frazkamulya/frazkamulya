@@ -1,7 +1,11 @@
-<div align="center">
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.vercel.app/?font=Fira+Code&size=30&duration=3000&pause=1000&color=FFFFFF&background=0066FF&center=true&vCenter=true&width=800&height=180&lines=Halo!+Selamat+datang+di+GitHub+saya+👋;Perkenalkan,+aku+Frazka+Mulya+Wijaya.;Informatics+Student+%7C+Data+Science+Focus+📊;Spesialis+Data+Integrity,+Screening,+%26+Audit.">
-</a>
+<div align="center" style="position: relative;">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=003B73&height=300&section=header&text=" alt="header wavy background" style="width: 100%; display: block;" />
+  
+  <div style="position: absolute; top: 45%; left: 50%; transform: translate(-50%, -50%); width: 90%;">
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.vercel.app/?font=Fira+Code&size=30&duration=3200&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&height=120&lines=Halo!+Selamat+datang+di+GitHub+saya+👋;Perkenalkan,+aku+Frazka+Mulya+Wijaya.;Informatics+Student+%7C+Data+Science+Focus+📊;Spesialis+Data+Integrity,+Screening,+%26+Audit.">
+    </a>
+  </div>
 </div>
 <br/>
 
