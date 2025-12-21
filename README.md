@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.vercel.app/?font=Fira+Code&size=32&duration=2500&pause=1000&color=0066FF&center=true&vCenter=true&width=1100&height=100&lines=Hello!+Welcome+to+my+GitHub+profile;I+am+Frazka+Mulya+Wijaya;Informatics+Student+%7C+Data+Science+Focus;Specializing+in+Data+Integrity,+Screening,+and+Audit;Open+for+professional+opportunities+and+job+offers;Eager+to+learn+and+grow+from+any+knowledge+source">
+    <img src="https://readme-typing-svg.vercel.app/?font=Fira+Code&size=32&duration=2500&pause=1000&color=0066FF&center=true&vCenter=true&width=1100&height=100&lines=Eyooo+Welcome+to+my+GitHub+profile;I+am+Frazka+Mulya+Wijaya;Informatics+Student+%7C+Data+Science+Focus;Specializing+in+Data+Integrity,+Screening,+and+Audit;Open+for+professional+opportunities+and+job+offers;Eager+to+learn+and+grow+from+any+knowledge+source">
   </a>
 </div>
 <br/>
