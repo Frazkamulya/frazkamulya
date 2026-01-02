@@ -12,7 +12,7 @@ Informatics Engineering Student | Data Science Focus.
 
 Skills: Cleansing (Excel/SQL), Validation, Data Management.
 
-Data Science | Data Analyst | BI Analyst | Data Specialist
+Data Science | Data Analyst | Data Specialist
 
 
 ##  Connect With Me On Social:
