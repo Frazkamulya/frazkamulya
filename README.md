@@ -10,7 +10,7 @@ Informatics Engineering Student | Data Science Focus.
 
  Data Specialist committed to **Data Integrity, Screening, and Audit**.
 
-Skills: Cleansing (Excel/SQL), Validation, Data Management.
+Data Wrangling (Python/SQL), Exploratory Data Analysis (EDA), & Data Governance Principles.
 
 Data Science | Data Analyst | Data Specialist
 
